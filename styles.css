@@ -1,0 +1,76 @@
+@font-face {
+	font-family: 'Futura PT Book';
+	src: url('../fonts/futura_pt_book.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/futura_pt_book.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/futura_pt_book.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/futura_pt_book.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/futura_pt_book.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/futura_pt_book.svg#futura_pt_book') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+body {
+    font-family: 'Futura PT Book';
+}
+
+.company {
+    display: flex;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+.company-image {
+    width: 560px;
+    height: 560px;
+    object-fit: cover;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.company-description {
+}
+
+.company-info {
+    box-sizing: border-box;
+    min-width: 560px;
+    max-width: 560px;
+    min-height: 560px;
+    max-height: 560px;
+    padding: 60px;
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+.company-info .company-name {
+    font-size: 38px;
+    font-weight: 300;
+}
+
+.line {
+    width: 153px;
+    height: 3px;
+    background: white;
+    margin-bottom: 25px;
+}
+
+.agro-invest .line { 
+    background-color: white;
+}
+
+.agro-grib .line { 
+    background-color: black;
+}
+
+.agro-invest {
+    background: #6ca437;
+    color: white;
+    margin-left: 40px;
+}
+
+.agro-grib {
+    background: #ffd100;
+    color: black;
+    margin-right: 40px;
+}
