@@ -1,0 +1,40 @@
+.company-item {
+  border-radius: 8px;
+  background-color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 30px;
+  word-wrap: break-word;
+  margin-bottom: 7px;
+  margin-top: 11px;
+}
+
+.company-link {
+  font-size: 17px;
+  line-height: 26px;
+  font-weight: 400;
+  margin: 0px;
+}
+
+.header-info {
+  display: flex;
+  align-items: baseline;
+}
+
+.tag {
+  margin-right: 24px;
+  font-weight: bold;
+}
+
+.date {
+  color: #595959;
+  font-size: 15px;
+  margin-left: auto;
+}

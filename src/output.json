@@ -1,0 +1,911 @@
+[
+  {
+    "name": "Deutsche Bank",
+    "date": "12.03.2022",
+    "linkTitle": "Deutsche Bank закрывает бизнес в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5252121",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Sony Pictures\t",
+    "date": "12.03.2022",
+    "linkTitle": "Sony Pictures приостановила развитие бизнеса в России",
+    "linkUrl": "https://vc.ru/media/378451-sony-pictures-priostanovila-razvitie-biznesa-v-rossii",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Strava",
+    "date": "12.03.2022",
+    "linkTitle": "Strava приостановила работу своих сервисов в России и Беларуси",
+    "linkUrl": "https://tjournal.ru/u/108349-alexander/561088-strava-priostanovila-rabotu-svoih-servisov-v-rossii-i-belarusi",
+    "tag": "tag-3"
+  },
+  {
+    "name": "British American Tobacco",
+    "date": "11.03.2022",
+    "linkTitle": "British American Tobacco уйдет из России",
+    "linkUrl": "https://lenta.ru/news/2022/03/11/tobacco_brit/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Norton ",
+    "date": "11.03.2022",
+    "linkTitle": "Разработчик антивируса Norton приостановил работу в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/11/norton/",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Google Cloud",
+    "date": "11.03.2022",
+    "linkTitle": "В Google Cloud перестали регистрировать пользователей из России",
+    "linkUrl": "https://www.kommersant.ru/doc/5251352",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Uniqlo ",
+    "date": "11.03.2022",
+    "linkTitle": "Uniqlo временно приостанавливает деятельность в России",
+    "linkUrl": "https://tass.ru/ekonomika/14021735",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Pandora  ",
+    "date": "11.03.2022",
+    "linkTitle": "Pandora объявила о приостановке работы в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/10/nopandora/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Western Union  ",
+    "date": "11.03.2022",
+    "linkTitle": "Western Union приостанавливает работу в России и Белоруссии",
+    "linkUrl": "https://tass.ru/ekonomika/14028673",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Goldman Sachs",
+    "date": "11.03.2022",
+    "linkTitle": "Goldman Sachs сворачивает деятельность на территории России",
+    "linkUrl": "https://tass.ru/ekonomika/14030055",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Hearst ",
+    "date": "11.03.2022",
+    "linkTitle": "Hearst отозвала лицензии у российских редакций Esquire, Elle, Men's Health, Harper's Bazaar и Cosmopolitan",
+    "linkUrl": "https://vc.ru/media/377722-hearst-otozvala-licenzii-u-rossiyskih-redakciy-esquire-elle-men-s-health-harper-s-bazaar-i-cosmopolitan",
+    "tag": "tag-8"
+  },
+  {
+    "name": "Sony Music Group",
+    "date": "11.03.2022",
+    "linkTitle": "Sony Music Group и Warner Music Group приостанавливают деятельность в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5251207",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Warner Music Group",
+    "date": "11.03.2022",
+    "linkTitle": "Sony Music Group и Warner Music Group приостанавливают деятельность в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5251207",
+    "tag": "tag-3"
+  },
+  {
+    "name": "IELTS",
+    "date": "11.03.2022",
+    "linkTitle": "В России отменили экзамены английского языка IELTS",
+    "linkUrl": "https://www.kommersant.ru/doc/5250579",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Apple Pay  ",
+    "date": "11.03.2022",
+    "linkTitle": "Apple Pay и Google Pay будут недоступны для карт Visa и Mastercard российских банков",
+    "linkUrl": "https://tass.ru/ekonomika/13987383",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Google Pay  ",
+    "date": "11.03.2022",
+    "linkTitle": "Apple Pay и Google Pay будут недоступны для карт Visa и Mastercard российских банков",
+    "linkUrl": "https://tass.ru/ekonomika/13987383",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Feeld  ",
+    "date": "11.03.2022",
+    "linkTitle": "Приложение для знакомств Feeld перестанет работать в России и Белоруссии",
+    "linkUrl": "https://www.gazeta.ru/social/news/2022/03/11/17409643.shtml",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Hitachi ",
+    "date": "10.03.2022",
+    "linkTitle": "Hitachi приостанавливает деятельность в России",
+    "linkUrl": "https://ria.ru/20220310/hitachi-1777400931.html",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Hugo Boss",
+    "date": "10.03.2022",
+    "linkTitle": "Hugo Boss закрывает магазины и приостанавливает онлайн-торговлю в России",
+    "linkUrl": "https://tass.ru/ekonomika/14019937",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Carlsberg",
+    "date": "10.03.2022",
+    "linkTitle": "Производитель пива Carlsberg сообщил об остановке производства в России",
+    "linkUrl": "https://ria.ru/20220310/carlsberg-1777392937.html",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Epson  ",
+    "date": "10.03.2022",
+    "linkTitle": "Epson Response to the Ukraine Crisis",
+    "linkUrl": "https://global.epson.com/newsroom/2022/news_20220309.html",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Nintendo ",
+    "date": "10.03.2022",
+    "linkTitle": "Nintendo приостановила поставки игровых консолей в Россию",
+    "linkUrl": "https://tass.ru/ekonomika/14018013",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Discovery ",
+    "date": "10.03.2022",
+    "linkTitle": "Discovery приостанавливает вещание своих кабельных каналов в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5250364",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Mothercare  ",
+    "date": "10.03.2022",
+    "linkTitle": "Сеть магазинов Mothercare приостанавливает работу в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5250141",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Imperial Brands",
+    "date": "10.03.2022",
+    "linkTitle": "Табачная компания Imperial Brands приостанавливает бизнес в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5250271",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Prime Video",
+    "date": "10.03.2022",
+    "linkTitle": "Amazon Prime Video ограничил доступ к своим сериалам и фильмам для россиян",
+    "linkUrl": "https://www.kommersant.ru/doc/5250285",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Victoria's Secret",
+    "date": "10.03.2022",
+    "linkTitle": "Victoria's Secret временно прекратит работу в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/09/vsbye/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Iveco ",
+    "date": "10.03.2022",
+    "linkTitle": "Iveco прекращает продажи в России",
+    "linkUrl": "https://tass.ru/ekonomika/14010643",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Figma",
+    "date": "09.03.2022",
+    "linkTitle": "Figma заморозит корпоративные российские аккаунты и приостановит все продажи в стране",
+    "linkUrl": "https://vc.ru/services/377099-figma-zamorozit-korporativnye-rossiyskie-akkaunty-i-priostanovit-vse-prodazhi-v-strane",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Badoo, Bumble ",
+    "date": "09.03.2022",
+    "linkTitle": "Приложения для знакомств Bumble и Badoo уйдут из России",
+    "linkUrl": "https://lenta.ru/news/2022/03/09/badoo/",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Universal Music ",
+    "date": "09.03.2022",
+    "linkTitle": "Universal Music Group приостанавливает работу в России, сообщили СМИ",
+    "linkUrl": "https://ria.ru/20220309/muzyka-1777205653.html",
+    "tag": "tag-8"
+  },
+  {
+    "name": "Starbucks ",
+    "date": "09.03.2022",
+    "linkTitle": "Starbucks приостановит свой бизнес и закроет кофейни в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5249973",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Condé Nast",
+    "date": "09.03.2022",
+    "linkTitle": "Condé Nast suspends publishing operations in Russia",
+    "linkUrl": "https://www.condenast.com/news/conde-nast-suspends-publishing-operations-in-russia",
+    "tag": "tag-8"
+  },
+  {
+    "name": "Сoca-Cola",
+    "date": "09.03.2022",
+    "linkTitle": "Сoca-Cola приостанавливает деятельность в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5249983",
+    "tag": "tag-1"
+  },
+  {
+    "name": "PepsiCo",
+    "date": "09.03.2022",
+    "linkTitle": "PepsiCo прекратит продажу и рекламу напитков в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/09/pepsicovse/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Amazon Web Services (AWS)",
+    "date": "09.03.2022",
+    "linkTitle": "Amazon прекратил прием новых клиентов облачных сервисов в России",
+    "linkUrl": "https://ria.ru/20220308/amazon-1777196261.html",
+    "tag": "tag-3"
+  },
+  {
+    "name": "L`Oreal ",
+    "date": "08.03.2022",
+    "linkTitle": "L`Oreal временно закроет магазины в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5249930",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Lamborghini ",
+    "date": "08.03.2022",
+    "linkTitle": "Lamborghini временно остановит работу в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/08/lamboban/",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Depositphotos ",
+    "date": "08.03.2022",
+    "linkTitle": "Фотобанк Depositphotos и программа для графического дизайна VistaCreate прекратили работу в РФ и Белоруссии",
+    "linkUrl": "https://www.kommersant.ru/doc/5249812",
+    "tag": "tag-3"
+  },
+  {
+    "name": "JCB",
+    "date": "08.03.2022",
+    "linkTitle": "Японская платёжная система JCB приостановит операции в России",
+    "linkUrl": "https://vc.ru/finance/376532-yaponskaya-platezhnaya-sistema-jcb-priostanovit-operacii-v-rossii",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Shell ",
+    "date": "08.03.2022",
+    "linkTitle": "Shell закроет свои АЗС в России",
+    "linkUrl": "https://vc.ru/transport/376596-shell-zakroet-svoi-azs-v-rossii",
+    "tag": "tag-8"
+  },
+  {
+    "name": "McDonald's ",
+    "date": "08.03.2022",
+    "linkTitle": "McDonald's временно закроет рестораны в РФ",
+    "linkUrl": "https://www.interfax.ru/russia/826958",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Ubisoft ",
+    "date": "08.03.2022",
+    "linkTitle": "Ubisoft приостановит продажи видеоигр в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/08/ub/",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Upwork",
+    "date": "08.03.2022",
+    "linkTitle": "Upwork приостановила работу в России и Белоруссии",
+    "linkUrl": "https://www.kommersant.ru/doc/5249714",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Adidas",
+    "date": "08.03.2022",
+    "linkTitle": "Adidas приостановила продажи в России. Ранее о мерах из-за боевых действий на Украине объявили Nike и Puma",
+    "linkUrl": "https://tjournal.ru/news/557125-adidas-priostanovila-prodazhi-v-rossii-ranee-o-merah-iz-za-boevyh-deystviy-na-ukraine-obyavili-nike-i-puma",
+    "tag": "tag-1"
+  },
+  {
+    "name": "OBI",
+    "date": "08.03.2022",
+    "linkTitle": "Сеть магазинов строительных и хозяйственных товаров OBI прекратит работу в России",
+    "linkUrl": "https://tass.ru/ekonomika/13998411",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Estee Lauder",
+    "date": "08.03.2022",
+    "linkTitle": "Estée Lauder приостановила деятельность в России",
+    "linkUrl": "https://ria.ru/20220308/estelauder-1777114589.html",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Valio, Paulig  ",
+    "date": "07.03.2022",
+    "linkTitle": "Финские компании Valio и Paulig уходят из России",
+    "linkUrl": "https://ria.ru/20220307/finlyandiya-1777012678.html",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Sephora ",
+    "date": "07.03.2022",
+    "linkTitle": "Сеть магазинов косметики Sephora приостановит работу в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5249578",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Fazer ",
+    "date": "07.03.2022",
+    "linkTitle": "Fazer exits all its operations in Russia",
+    "linkUrl": "https://www.fazergroup.com/settings/cision-news/?id=4201996",
+    "tag": "tag-1"
+  },
+  {
+    "name": "American Express",
+    "date": "07.03.2022",
+    "linkTitle": "American Express решила приостановить работу в России и Белоруссии",
+    "linkUrl": "https://ria.ru/20220306/americanexpress-1776969587.html",
+    "tag": "tag-6"
+  },
+  {
+    "name": "eSputnik",
+    "date": "07.03.2022",
+    "linkTitle": "Официальное сообщество Facebook",
+    "linkUrl": "https://www.facebook.com/eSputnik/",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Netflix ",
+    "date": "06.03.2022",
+    "linkTitle": "Netflix объявил о приостановке работы в России Статьи редакции",
+    "linkUrl": "https://vc.ru/services/376148-netflix-obyavil-o-priostanovke-raboty-v-rossii",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Visa, Mastercard ",
+    "date": "06.03.2022",
+    "linkTitle": "Visa Suspends All Russia OperationsMastercard Statement on Suspension of Russian Operations",
+    "linkUrl": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.18871.html",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Prada",
+    "date": "05.03.2022",
+    "linkTitle": "В Prada сообщили о приостановке розничной торговли в России",
+    "linkUrl": "https://www.rbc.ru/rbcfreenews/6223b4e39a794734275d1cab",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Puma",
+    "date": "05.03.2022",
+    "linkTitle": "Puma прекратила поставки в Россию и закрыла магазины в стране",
+    "linkUrl": "https://www.rbc.ru/business/05/03/2022/6223a2589a79472fd2cb551b?",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Adobe ",
+    "date": "05.03.2022",
+    "linkTitle": "Компания Adobe прекращает все новые продажи продуктов и услуг в России",
+    "linkUrl": "https://vc.ru/services/375757-kompaniya-adobe-prekrashchaet-vse-novye-prodazhi-produktov-i-uslug-v-rossii",
+    "tag": "tag-1"
+  },
+  {
+    "name": "IBM ",
+    "date": "05.03.2022",
+    "linkTitle": "IBM прекратила продажи на территории России",
+    "linkUrl": "https://lenta.ru/news/2022/03/05/ibm/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Inditex",
+    "date": "05.03.2022",
+    "linkTitle": "Zara, Massimo Dutti, Bershka, Oysho, Pull & Bear, Stradivarius закрывают магазины в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5249123",
+    "tag": "tag-1"
+  },
+  {
+    "name": "PayPal",
+    "date": "05.03.2022",
+    "linkTitle": "PayPal приостановил работу в России",
+    "linkUrl": "https://www.rbc.ru/finances/05/03/2022/622313a29a794775d1a6bdb0",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Deezer",
+    "date": "05.03.2022",
+    "linkTitle": "Deezer сообщил об уходе из России",
+    "linkUrl": "https://tass.ru/obschestvo/13969781",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Hitachi, Komatsu",
+    "date": "05.03.2022",
+    "linkTitle": "Hitachi и Komatsu приостановили поставки строительной техники в Россию",
+    "linkUrl": "https://www.rbc.ru/rbcfreenews/6222d8cc9a79475fff25e7f9",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Kering  ",
+    "date": "05.03.2022",
+    "linkTitle": "LVMH, Kering, Chanel и Cartier приостанавливают деятельность в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5248935",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Coursera ",
+    "date": "05.03.2022",
+    "linkTitle": "Coursera’s response to the humanitarian crisis in Ukraine",
+    "linkUrl": "https://blog.coursera.org/coursera-response-to-the-humanitarian-crisis-in-ukraine",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Booking.com",
+    "date": "05.03.2022",
+    "linkTitle": "Booking.com приостановил работу в России из-за «сложностей ведения бизнеса в стране» ",
+    "linkUrl": "https://vc.ru/services/375285-booking-com-priostanovil-rabotu-v-rossii-iz-za-slozhnostey-vedeniya-biznesa-v-strane",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Е-Katalog ",
+    "date": "05.03.2022",
+    "linkTitle": "",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Electronic Arts",
+    "date": "04.03.2022",
+    "linkTitle": "EA приостановит продажу своих игр в России и Беларуси",
+    "linkUrl": "https://dtf.ru/gameindustry/1106875-ea-priostanovit-prodazhu-svoih-igr-v-rossii-i-belarusi",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Storytel  ",
+    "date": "04.03.2022",
+    "linkTitle": "Storytel прекращает работу в России",
+    "linkUrl": "https://www.gazeta.ru/tech/news/2022/03/04/17381137.shtml",
+    "tag": "tag-3"
+  },
+  {
+    "name": "FedEx ",
+    "date": "04.03.2022",
+    "linkTitle": "UPS и FedEx приостановили доставку грузов в Россию",
+    "linkUrl": "https://www.gazeta.ru/business/news/2022/02/27/17354569.shtml",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Rolls-Royce ",
+    "date": "04.03.2022",
+    "linkTitle": "Rolls-Royce приостановил поставки машин в Россию",
+    "linkUrl": "https://lenta.ru/news/2022/03/04/norolls/",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Microsoft",
+    "date": "04.03.2022",
+    "linkTitle": "Microsoft приостанавливает продажи товаров и предоставление услуг в России",
+    "linkUrl": "https://tass.ru/ekonomika/13967311",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Cisco",
+    "date": "04.03.2022",
+    "linkTitle": "Разработчик ПО Cisco прекратил бизнес-операции в России и Белоруссии",
+    "linkUrl": "https://www.vedomosti.ru/business/news/2022/03/04/912129-razrabotchik-po-cisco-prekratil-biznes-operatsii-v-rossii",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Panasonic ",
+    "date": "04.03.2022",
+    "linkTitle": "Panasonic прекращает торговые операции с РФ",
+    "linkUrl": "https://www.gazeta.ru/business/news/2022/03/04/17378839.shtml",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Marks & Spencer",
+    "date": "04.03.2022",
+    "linkTitle": "Marks & Spencer останавливает поставки на российский рынок Об этом сообщает \"Рамблер\"",
+    "linkUrl": "https://finance.rambler.ru/business/48241955-marks-spencer-ostanavlivaet-postavki-na-rossiyskiy-rynok/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Hitachi",
+    "date": "04.03.2022",
+    "linkTitle": "Notice Regarding Russian Local Manufacturing and Export from Japan",
+    "linkUrl": "https://www.hitachicm.com/global/important-notice_en/22-03-04e/",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Swarovski ",
+    "date": "04.03.2022",
+    "linkTitle": "Swarovski приостановила продажи в России",
+    "linkUrl": "https://ria.ru/20220304/swarovski-1776442237.html",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Grammarly   ",
+    "date": "04.03.2022",
+    "linkTitle": "Airbnb, Autodesk и Grammarly приостановили работу в России, Accenture — ушла",
+    "linkUrl": "https://vc.ru/services/374575-airbnb-autodesk-i-grammarly-priostanovili-rabotu-v-rossii-accenture-ushla",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Autodesk   ",
+    "date": "04.03.2022",
+    "linkTitle": "Крупнейший поставщик ПО для строительства Autodesk приостанавливает работу в России",
+    "linkUrl": "https://tass.ru/ekonomika/13959977",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Airbnb  ",
+    "date": "04.03.2022",
+    "linkTitle": "Airbnb приостанавливает деятельность в России и Белоруссии",
+    "linkUrl": "https://ria.ru/20220304/airbnb-1776409501.html",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Mango   ",
+    "date": "03.03.2022",
+    "linkTitle": "Fashion-ритейлер Mango приостановил работу в РФ",
+    "linkUrl": "https://www.interfax.ru/russia/826080",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Accenture",
+    "date": "03.03.2022",
+    "linkTitle": "Консалтинговая компания Accenture прекращает работу в России",
+    "linkUrl": "https://www.kommersant.ru/doc/5240307",
+    "tag": "tag-6"
+  },
+  {
+    "name": "IKEA ",
+    "date": "03.03.2022",
+    "linkTitle": "IKEA приостанавливает деятельность в России и Белоруссии",
+    "linkUrl": "https://tass.ru/ekonomika/13949757",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Skoda Auto ",
+    "date": "03.03.2022",
+    "linkTitle": "Skoda Auto приостанавливает свою деятельность в России",
+    "linkUrl": "https://ria.ru/20220303/skoda-1776266993.html",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Diageo ",
+    "date": "03.03.2022",
+    "linkTitle": "Производитель Guinness и Captain Morgan приостановил экспорт в Россию",
+    "linkUrl": "https://lenta.ru/news/2022/03/03/alkostop/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Lego",
+    "date": "03.03.2022",
+    "linkTitle": "Ретейлер опроверг сообщения об уходе Lego с российского рынкаLego приостановила поставки в Россию",
+    "linkUrl": "https://ria.ru/20220303/lego-1776254539.html",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Suzuki   ",
+    "date": "03.03.2022",
+    "linkTitle": "Suzuki останавливает поставки в Россию автомобилей и мотоциклов",
+    "linkUrl": "https://tass.ru/mezhdunarodnaya-panorama/13946175",
+    "tag": "tag-4"
+  },
+  {
+    "name": "SAP  ",
+    "date": "03.03.2022",
+    "linkTitle": "Германский разработчик корпоративного ПО SAP остановил бизнес в РФ",
+    "linkUrl": "https://www.interfax.ru/business/825939",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Embraer ",
+    "date": "03.03.2022",
+    "linkTitle": "Embraer перестанет поставлять запчасти и обслуживать свои самолеты в России",
+    "linkUrl": "https://tass.ru/ekonomika/13942885",
+    "tag": "tag-5"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "date": "03.03.2022",
+    "linkTitle": "Mercedes-Benz приостановит поставки легковых автомобилей в Россию",
+    "linkUrl": "https://tass.ru/ekonomika/13942045",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Atlassian ",
+    "date": "02.03.2022",
+    "linkTitle": "Atlassian stands with Ukraine",
+    "linkUrl": "https://www.atlassian.com/blog/announcements/atlassian-stands-with-ukraine",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Apple",
+    "date": "02.03.2022",
+    "linkTitle": "Apple подтвердила прекращение поставок техники в Россию",
+    "linkUrl": "https://vc.ru/finance/373185-apple-podtverdila-prekrashchenie-postavok-tehniki-v-rossiyu",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Freelancehunt",
+    "date": "02.03.2022",
+    "linkTitle": "Официальное сообщество в VK",
+    "linkUrl": "https://vk.com/freelancehuntcom",
+    "tag": "tag-3"
+  },
+  {
+    "name": "H&M",
+    "date": "02.03.2022",
+    "linkTitle": "H&M Group temporarily pauses all sales in Russia",
+    "linkUrl": "https://news.cision.com/h---m-hennes---mauritz-ab/r/h-m-group-temporarily-pauses-all-sales-in-russia,c3517683",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Boeing",
+    "date": "02.03.2022",
+    "linkTitle": "Boeing suspends parts, maintenance and support for Russian airlines",
+    "linkUrl": "https://www.reuters.com/business/aerospace-defense/boeing-suspends-parts-maintenance-support-russian-airlines-2022-03-02/",
+    "tag": "tag-5"
+  },
+  {
+    "name": "American Express",
+    "date": "02.03.2022",
+    "linkTitle": "American Express приостановила работу в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/02/amex/",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Serpstat",
+    "date": "02.03.2022",
+    "linkTitle": "Сервис Serpstat заблокировал пользователей из РФ без возврата денег за тарифы",
+    "linkUrl": "https://vc.ru/services/373227-servis-serpstat-zablokiroval-polzovateley-iz-rf-bez-vozvrata-deneg-za-tarify",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Ninja Sushi ",
+    "date": "02.03.2022",
+    "linkTitle": "Официальный сайт",
+    "linkUrl": "https://ninjasushi.moscow/",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Megogo",
+    "date": "02.03.2022",
+    "linkTitle": "Онлайн-кинотеатр Megogo прекратил работу в России",
+    "linkUrl": "https://vc.ru/media/373703-onlayn-kinoteatr-megogo-prekratil-rabotu-v-rossii",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Ford",
+    "date": "02.03.2022",
+    "linkTitle": "Автозавод «Соллерс Форд» приостановит производство с 3 марта",
+    "linkUrl": "https://iz.ru/1299236/2022-03-02/avtozavod-sollers-ford-priostanovit-proizvodstvo-s-3-marta",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Honda",
+    "date": "02.03.2022",
+    "linkTitle": "Honda и Mazda остановили поставки машин и комплектующих в Россию",
+    "linkUrl": "https://www.autonews.ru/news/621f44399a79477124b6ff7e",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Mazda",
+    "date": "02.03.2022",
+    "linkTitle": "Honda и Mazda остановили поставки машин и комплектующих в Россию",
+    "linkUrl": "https://www.autonews.ru/news/621f44399a79477124b6ff7e",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Toyota",
+    "date": "02.03.2022",
+    "linkTitle": "Toyota приостанавливает производство и поставки в РФ",
+    "linkUrl": "https://www.interfax.ru/business/825825",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Geely",
+    "date": "02.03.2022",
+    "linkTitle": "Geely приостановила поставки автомобилей российским дилерам",
+    "linkUrl": "https://www.gazeta.ru/auto/news/2022/03/02/17367427.shtml",
+    "tag": "tag-4"
+  },
+  {
+    "name": "MAN ",
+    "date": "02.03.2022",
+    "linkTitle": "Производитель грузовиков MAN прекращает экспорт своей продукции в Россию",
+    "linkUrl": "https://tass.ru/ekonomika/13934207",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Asos",
+    "date": "02.03.2022",
+    "linkTitle": "ASOS прекратил доставку в Россию",
+    "linkUrl": "https://tjournal.ru/news/550920-asos-prekratil-dostavku-v-rossiyu",
+    "tag": "tag-1"
+  },
+  {
+    "name": "HP ",
+    "date": "02.03.2022",
+    "linkTitle": "HP приостановила поставки в Россию",
+    "linkUrl": "https://www.vedomosti.ru/technology/articles/2022/03/02/911708-hp-priostanovila-postavki",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Nokia ",
+    "date": "02.03.2022",
+    "linkTitle": "Nokia заставили отказаться от поставок в Россию",
+    "linkUrl": "https://www.cnews.ru/news/top/2022-03-02_nokia_zastavili_otkazatsya",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Oracle ",
+    "date": "02.03.2022",
+    "linkTitle": "Oracle приостановила все отношения с Россией",
+    "linkUrl": "https://habr.com/ru/news/t/654141/",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Namecheap ",
+    "date": "01.03.2022",
+    "linkTitle": "«Ошибка 403»: крупный регистратор доменов перестанет обслуживать россиян",
+    "linkUrl": "https://www.gazeta.ru/tech/2022/03/01/14588137.shtml",
+    "tag": "tag-3"
+  },
+  {
+    "name": "eSputnik ",
+    "date": "01.03.2022",
+    "linkTitle": "Официальное сообщество VK",
+    "linkUrl": "https://vk.com/esputnik?w=wall-42010128_3058",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Jaguar Land Rover",
+    "date": "01.03.2022",
+    "linkTitle": "Jaguar и Land Rover приостановили поставки автомобилей в Россию",
+    "linkUrl": "https://www.rbc.ru/business/01/03/2022/621e21339a79470a7e60b3d4",
+    "tag": "tag-4"
+  },
+  {
+    "name": "BMW ",
+    "date": "01.03.2022",
+    "linkTitle": "BMW уходит из России",
+    "linkUrl": "https://www.vedomosti.ru/auto/articles/2022/03/01/911583-bmw-uhodit-iz-rossii",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Maersk",
+    "date": "01.03.2022",
+    "linkTitle": "Транспортный гигант прекратит контейнерные перевозки в Россию",
+    "linkUrl": "https://lenta.ru/news/2022/03/01/maersk/",
+    "tag": "tag-6"
+  },
+  {
+    "name": "Letyshops ",
+    "date": "01.03.2022",
+    "linkTitle": "Кэшбек-сервис LetyShops перестал работать в России",
+    "linkUrl": "https://vc.ru/services/373187-keshbek-servis-letyshops-perestal-rabotat-v-rossii-iz-za-voyny-s-ukrainoy",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Airbus",
+    "date": "01.03.2022",
+    "linkTitle": "Airbus приостановил деятельность инженерной площадки в России, пишут СМИ",
+    "linkUrl": "https://ria.ru/20220302/samolety-1776001304.html",
+    "tag": "tag-5"
+  },
+  {
+    "name": "Universal",
+    "date": "01.03.2022",
+    "linkTitle": "Universal Pauses Theatrical Releases In Russia",
+    "linkUrl": "https://deadline.com/2022/03/universal-russia-economic-sanction-1234968417/",
+    "tag": "tag-7"
+  },
+  {
+    "name": "Warner Bros.",
+    "date": "01.03.2022",
+    "linkTitle": "Warner Bros. приостановила релиз «Бэтмена» в прокате РФ на фоне вооружённого конфликта в Украине",
+    "linkUrl": "https://dtf.ru/cinema/1102489-warner-bros-priostanovila-reliz-betmena-v-prokate-rf-na-fone-vooruzhennogo-konflikta-v-ukraine",
+    "tag": "tag-7"
+  },
+  {
+    "name": "The Walt Disney Company",
+    "date": "01.03.2022",
+    "linkTitle": "Disney to Pause Theatrical Releases in Russia, Including ‘Turning Red,’ Due to Ukraine Invasion",
+    "linkUrl": "https://variety.com/2022/film/news/disney-pause-theatrical-releases-russia-turning-red-1235192517/",
+    "tag": "tag-7"
+  },
+  {
+    "name": "General Motors",
+    "date": "01.03.2022",
+    "linkTitle": "General Motors приостановил поставки автомобилей в Россию",
+    "linkUrl": "https://www.kommersant.ru/doc/5238219",
+    "tag": "tag-4"
+  },
+  {
+    "name": "TIU",
+    "date": "01.03.2022",
+    "linkTitle": "Популярный маркетплейс Tiu.ru стал недоступен в России",
+    "linkUrl": "https://vc.ru/trade/372814-populyarnyy-marketpleys-tiu-ru-stal-nedostupen-v-rossii",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Nike ",
+    "date": "01.03.2022",
+    "linkTitle": "Nike прекратит доставлять свои товары в Россию",
+    "linkUrl": "https://iz.ru/1299071/2022-03-01/nike-prekratit-dostavliat-svoi-tovary-v-rossiiu",
+    "tag": "tag-1"
+  },
+  {
+    "name": "Paramount",
+    "date": "01.03.2022",
+    "linkTitle": "Paramount приостановила релизы в России вслед за Disney и Warner Bros.",
+    "linkUrl": "https://www.rbc.ru/technology_and_media/01/03/2022/621e38199a7947156c9acc9a",
+    "tag": "tag-7"
+  },
+  {
+    "name": "BBC Studios",
+    "date": "01.03.2022",
+    "linkTitle": "BBC Studios отозвала лицензии на свой контент для России",
+    "linkUrl": "https://tass.ru/obschestvo/13922875",
+    "tag": "tag-7"
+  },
+  {
+    "name": "DHL",
+    "date": "01.03.2022",
+    "linkTitle": "DHL приостановила перевозки в Россию",
+    "linkUrl": "https://www.kommersant.ru/doc/5239067",
+    "tag": "tag-3"
+  },
+  {
+    "name": "Ericsson ",
+    "date": "28.02.2022",
+    "linkTitle": "Ericsson прекращает поставки в Россию оборудования для сотовой связи",
+    "linkUrl": "https://www.cnews.ru/news/top/2022-03-01_ericsson_prekrashchaet_postavki",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Volvo  ",
+    "date": "28.02.2022",
+    "linkTitle": "Автоконцерн Volvo приостановил операции в РФ вслед за Daimler",
+    "linkUrl": "https://www.interfax.ru/business/825238",
+    "tag": "tag-4"
+  },
+  {
+    "name": "Volkswagen Group  ",
+    "date": "28.02.2022",
+    "linkTitle": "Volkswagen прекратил поставки автомобилей в Россию",
+    "linkUrl": "https://lenta.ru/news/2022/02/28/volksw/",
+    "tag": "tag-4"
+  },
+  {
+    "name": "AMD",
+    "date": "27.02.2022",
+    "linkTitle": "AMD и Intel приостановили поставки своей продукции на территорию России",
+    "linkUrl": "https://www.rbc.ru/technology_and_media/27/02/2022/621a7f4f9a79473d8899b18d",
+    "tag": "tag-2"
+  },
+  {
+    "name": "Intel",
+    "date": "27.02.2022",
+    "linkTitle": "AMD и Intel приостановили поставки своей продукции на территорию России",
+    "linkUrl": "https://www.rbc.ru/technology_and_media/27/02/2022/621a7f4f9a79473d8899b18d",
+    "tag": "tag-2"
+  },
+  {
+    "name": "iHerb ",
+    "date": "25.02.2022",
+    "linkTitle": "iHerb приостановил работу в России",
+    "linkUrl": "https://lenta.ru/news/2022/03/02/iherb/",
+    "tag": "tag-1"
+  }
+]
